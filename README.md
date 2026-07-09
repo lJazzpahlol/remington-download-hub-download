@@ -16,8 +16,8 @@ https://github.com/lJazzpahlol/remington-download-hub-download/releases/latest/d
 3. Open the extracted folder.
 4. Double-click `INSTALL.bat`.
 5. Launch **Remington Download Hub** from the Desktop or Start Menu.
-6. Click **CHECK ALL**, then install or reinstall Nova, Panelz, REMsound,
-   Scrollz, and Starboard from inside the Hub.
+6. Click **CHECK ALL**, then install or reinstall Nova, Oracle, Panelz,
+   REMsound, Scrollz, and Starboard from inside the Hub.
 
 The Hub creates `config.json` and `remhub.log` beside the app after first run.
 Those files are local to your machine.
