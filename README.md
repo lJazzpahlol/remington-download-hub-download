@@ -22,5 +22,9 @@ https://github.com/lJazzpahlol/remington-download-hub-download/releases/latest/d
 The Hub creates `config.json` and `remhub.log` beside the app after first run.
 Those files are local to your machine.
 
+Starting with v0.5.0, the Hub checks for its own updates separately from the
+managed app list. Use the top-right **CHECK HUB** / **UPDATE HUB** control; it
+preserves those local files and restarts automatically after updating.
+
 No accounts. No telemetry. One download, then the Hub installs the individual
 apps.
